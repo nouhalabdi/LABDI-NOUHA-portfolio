@@ -11,7 +11,7 @@ const projects = [
     description: "Web-based platform for managing scientific events in healthcare sector. Supports event management, participant registration, paper submission/evaluation, workshop organization, and certificate generation.",
     image: "/projects/medevents.png",
     github: "https://github.com/nouhalabdi/Med-Events-.git",
-    demo: "https://med-events-1.onrender.com",
+    demo: "https://med-events-2.onrender.com",
   },
   {
     id: 2,
