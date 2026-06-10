@@ -5,16 +5,6 @@ import { Github, ExternalLink } from 'lucide-react';
 const projects = [
   {
     id: 1,
-    title: "Med Events Platform",
-    type: "Full Stack Web App",
-    tech: ["React", "Flask", "SQLAlchemy", "Tailwind CSS", "JWT"],
-    description: "Web-based platform for managing scientific events in healthcare sector. Supports event management, participant registration, paper submission/evaluation, workshop organization, and certificate generation.",
-    image: "/projects/medevents.png",
-    github: "https://github.com/nouhalabdi/Med-Events-.git",
-    demo: "https://med-events-2.onrender.com",
-  },
-  {
-    id: 2,
     title: "Univ-Stage (Stag.io)",
     type: "Full Stack Web App",
     tech: ["React", "Flask", "MongoDB", "Socket.io", "JWT", "PDF Generation"],
@@ -22,6 +12,16 @@ const projects = [
     image: "/projects/univstage.jpg",
     github: "https://github.com/nouhalabdi/Univ-Stage.git",
     demo: "https://pfe-1-oazo.onrender.com/",
+  },
+  {
+    id: 2,
+    title: "Med Events Platform",
+    type: "Full Stack Web App",
+    tech: ["React", "Flask", "SQLAlchemy", "Tailwind CSS", "JWT"],
+    description: "Web-based platform for managing scientific events in healthcare sector. Supports event management, participant registration, paper submission/evaluation, workshop organization, and certificate generation.",
+    image: "/projects/medevents.png",
+    github: "https://github.com/nouhalabdi/Med-Events-.git",
+    demo: "https://med-events-2.onrender.com",
   },
   {
     id: 3,
